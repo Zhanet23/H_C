@@ -1,0 +1,15 @@
+D:\My\GB\C_Examples\Example7\bin\Debug\net8.0\Example7.exe
+D:\My\GB\C_Examples\Example7\bin\Debug\net8.0\Example7.deps.json
+D:\My\GB\C_Examples\Example7\bin\Debug\net8.0\Example7.runtimeconfig.json
+D:\My\GB\C_Examples\Example7\bin\Debug\net8.0\Example7.dll
+D:\My\GB\C_Examples\Example7\bin\Debug\net8.0\Example7.pdb
+D:\My\GB\C_Examples\Example7\obj\Debug\net8.0\Example7.GeneratedMSBuildEditorConfig.editorconfig
+D:\My\GB\C_Examples\Example7\obj\Debug\net8.0\Example7.AssemblyInfoInputs.cache
+D:\My\GB\C_Examples\Example7\obj\Debug\net8.0\Example7.AssemblyInfo.cs
+D:\My\GB\C_Examples\Example7\obj\Debug\net8.0\Example7.csproj.CoreCompileInputs.cache
+D:\My\GB\C_Examples\Example7\obj\Debug\net8.0\Example7.sourcelink.json
+D:\My\GB\C_Examples\Example7\obj\Debug\net8.0\Example7.dll
+D:\My\GB\C_Examples\Example7\obj\Debug\net8.0\refint\Example7.dll
+D:\My\GB\C_Examples\Example7\obj\Debug\net8.0\Example7.pdb
+D:\My\GB\C_Examples\Example7\obj\Debug\net8.0\Example7.genruntimeconfig.cache
+D:\My\GB\C_Examples\Example7\obj\Debug\net8.0\ref\Example7.dll
