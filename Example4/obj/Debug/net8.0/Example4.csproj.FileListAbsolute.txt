@@ -1,0 +1,15 @@
+D:\My\GB\C_Examples\Example4\bin\Debug\net8.0\Example4.exe
+D:\My\GB\C_Examples\Example4\bin\Debug\net8.0\Example4.deps.json
+D:\My\GB\C_Examples\Example4\bin\Debug\net8.0\Example4.runtimeconfig.json
+D:\My\GB\C_Examples\Example4\bin\Debug\net8.0\Example4.dll
+D:\My\GB\C_Examples\Example4\bin\Debug\net8.0\Example4.pdb
+D:\My\GB\C_Examples\Example4\obj\Debug\net8.0\Example4.GeneratedMSBuildEditorConfig.editorconfig
+D:\My\GB\C_Examples\Example4\obj\Debug\net8.0\Example4.AssemblyInfoInputs.cache
+D:\My\GB\C_Examples\Example4\obj\Debug\net8.0\Example4.AssemblyInfo.cs
+D:\My\GB\C_Examples\Example4\obj\Debug\net8.0\Example4.csproj.CoreCompileInputs.cache
+D:\My\GB\C_Examples\Example4\obj\Debug\net8.0\Example4.sourcelink.json
+D:\My\GB\C_Examples\Example4\obj\Debug\net8.0\Example4.dll
+D:\My\GB\C_Examples\Example4\obj\Debug\net8.0\refint\Example4.dll
+D:\My\GB\C_Examples\Example4\obj\Debug\net8.0\Example4.pdb
+D:\My\GB\C_Examples\Example4\obj\Debug\net8.0\Example4.genruntimeconfig.cache
+D:\My\GB\C_Examples\Example4\obj\Debug\net8.0\ref\Example4.dll
