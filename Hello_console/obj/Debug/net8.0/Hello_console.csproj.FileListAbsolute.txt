@@ -1,0 +1,14 @@
+D:\My\GB\C_Examples\Hello_console\bin\Debug\net8.0\Hello_console.exe
+D:\My\GB\C_Examples\Hello_console\bin\Debug\net8.0\Hello_console.deps.json
+D:\My\GB\C_Examples\Hello_console\bin\Debug\net8.0\Hello_console.runtimeconfig.json
+D:\My\GB\C_Examples\Hello_console\bin\Debug\net8.0\Hello_console.dll
+D:\My\GB\C_Examples\Hello_console\bin\Debug\net8.0\Hello_console.pdb
+D:\My\GB\C_Examples\Hello_console\obj\Debug\net8.0\Hello_console.GeneratedMSBuildEditorConfig.editorconfig
+D:\My\GB\C_Examples\Hello_console\obj\Debug\net8.0\Hello_console.AssemblyInfoInputs.cache
+D:\My\GB\C_Examples\Hello_console\obj\Debug\net8.0\Hello_console.AssemblyInfo.cs
+D:\My\GB\C_Examples\Hello_console\obj\Debug\net8.0\Hello_console.csproj.CoreCompileInputs.cache
+D:\My\GB\C_Examples\Hello_console\obj\Debug\net8.0\Hello_console.dll
+D:\My\GB\C_Examples\Hello_console\obj\Debug\net8.0\refint\Hello_console.dll
+D:\My\GB\C_Examples\Hello_console\obj\Debug\net8.0\Hello_console.pdb
+D:\My\GB\C_Examples\Hello_console\obj\Debug\net8.0\Hello_console.genruntimeconfig.cache
+D:\My\GB\C_Examples\Hello_console\obj\Debug\net8.0\ref\Hello_console.dll
