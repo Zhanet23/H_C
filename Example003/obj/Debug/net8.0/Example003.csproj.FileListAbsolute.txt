@@ -1,0 +1,15 @@
+D:\My\GB\C_Examples\Example003\bin\Debug\net8.0\Example003.exe
+D:\My\GB\C_Examples\Example003\bin\Debug\net8.0\Example003.deps.json
+D:\My\GB\C_Examples\Example003\bin\Debug\net8.0\Example003.runtimeconfig.json
+D:\My\GB\C_Examples\Example003\bin\Debug\net8.0\Example003.dll
+D:\My\GB\C_Examples\Example003\bin\Debug\net8.0\Example003.pdb
+D:\My\GB\C_Examples\Example003\obj\Debug\net8.0\Example003.GeneratedMSBuildEditorConfig.editorconfig
+D:\My\GB\C_Examples\Example003\obj\Debug\net8.0\Example003.AssemblyInfoInputs.cache
+D:\My\GB\C_Examples\Example003\obj\Debug\net8.0\Example003.AssemblyInfo.cs
+D:\My\GB\C_Examples\Example003\obj\Debug\net8.0\Example003.csproj.CoreCompileInputs.cache
+D:\My\GB\C_Examples\Example003\obj\Debug\net8.0\Example003.sourcelink.json
+D:\My\GB\C_Examples\Example003\obj\Debug\net8.0\Example003.dll
+D:\My\GB\C_Examples\Example003\obj\Debug\net8.0\refint\Example003.dll
+D:\My\GB\C_Examples\Example003\obj\Debug\net8.0\Example003.pdb
+D:\My\GB\C_Examples\Example003\obj\Debug\net8.0\Example003.genruntimeconfig.cache
+D:\My\GB\C_Examples\Example003\obj\Debug\net8.0\ref\Example003.dll
